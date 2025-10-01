@@ -1,5 +1,5 @@
 ---
-title: Las Áreas de Conservación Regional en el Perú: Historia, Situación Actual, Amenazas
+title: Las Áreas de Conservación Regional en el Perú - Historia, Situación Actual, Amenazas
 layout: default
 parent: Día 1
 nav_order: 2

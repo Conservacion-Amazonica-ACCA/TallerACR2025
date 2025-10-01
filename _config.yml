@@ -1,5 +1,6 @@
 title: I Curso de implementación del sistema de control, vigilancia y monitoreo de la biodiversidad en Áreas de Conservación Regional - ACR
 description: Entrenamiento presencial dirigido a personal de las ACR en Perú
+theme: just-the-docs
 baseurl: "/TallerACR2025" # the subpath of your site, e.g. /blog
 url: "https://conservacion-amazonica-acca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/transparent-logos.png"

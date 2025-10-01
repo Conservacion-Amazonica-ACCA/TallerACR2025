@@ -18,7 +18,7 @@ La siguiente tabla muestra las actividades del Día 1.
 | 2   | 08:15 a 08:30 | Evaluación de entrada                                                                           | ACCA               | Presencial |
 | 3   | 08:30 a 09:00 | Gestión de la Biodiversidad y Conservación de la Naturaleza como Política Pública               | AAF                | Presencial |
 | 4   | 09:00 a 09:45 | Las Áreas de Conservación Regional en el Perú: Historia, Situación Actual y Amenazas            | AAF                | Presencial |
-| 5   | 09:45 a 10:00 | Las Áreas de Conservación Regional en el Perú: Retos en la Planificación y Gestión Presupuestal | GFP Subnacional    | Presencial |
+| 5   | 09:45 a 10:00 | Las Áreas de Conservación Regional en el Perú: Retos en la Planificación y Gestión Presupuestal | GFP Subnacional    | Virtual    |
 | 6   | 10:00 a 10:30 | Compatibilidad en ANP de Administración Nacional y Regional                                     | SERNANP            | Virtual    |
 | 7   | 10:30 a 10:45 | Receso                                                                                          | ACCA               | Presencial |
 | 8   | 10:45 a 12:00 | Principios y Lineamientos de Vigilancia y Control                                               | SERNANP            | Presencial |

@@ -4,6 +4,15 @@ baseurl: "/TallerACR2025" # the subpath of your site, e.g. /blog
 url: "https://conservacion-amazonica-acca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/transparent-logos.png"
 
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/images/favicon.ico"
 

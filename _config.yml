@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: I Curso de implementación del sistema de control, vigilancia y monitoreo de la biodiversidad en Áreas de Conservación Regional - ACR
+description: Entrenamiento presencial dirigido a personal de las ACR en Perú
 
-url: https://just-the-docs.github.io
+url: https://conservacion-amazonica-acca.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Conservación Amazónica - ACCA":
+    - "//www.acca.org.pe/"

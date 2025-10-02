@@ -7,7 +7,7 @@ permalink: /02-dia
 ---
 
 # Día 2
-Este segundo día consistió en realizar un ejercicio práctico sobre colecta de información utilizando SMART Mobile. Se realizó un simulacro de patrullaje en la estación biológica Manu a lo largo de diferentes trochas, recolectando datos de interés. Por otra parte, se generó una presentación sobre el procedimiento administrativo sancionador de las ANP. Por último, hubo un conversatorio sobre las causísticas de PAS.
+Este segundo día consistió en realizar un ejercicio práctico sobre colecta de información utilizando SMART Mobile. Se realizó un simulacro de patrullaje en la estación biológica Manu a lo largo de diferentes trochas, recolectando datos de interés. Por otra parte, se generó una presentación sobre el procedimiento administrativo sancionador de las ANP. Por último, hubo un conversatorio sobre las casuísticas de PAS.
 
 ## Agenda
 La siguiente tabla muestra las actividades del Día 2.

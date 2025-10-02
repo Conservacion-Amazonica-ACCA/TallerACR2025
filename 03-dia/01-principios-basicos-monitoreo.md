@@ -8,6 +8,10 @@ description: "Principios Básicos del Monitoreo de la Biodiversidad"
 
 # Principios Básicos del Monitoreo de la Biodiversidad
 
+## Funciones de la Subdirección y Monitoreo
+
 <iframe src="https://drive.google.com/file/d/1Bs6AXClXBgS-c_a4fBRy4P7AtmVunuL5/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Protocolos de Monitoreo
 
 <iframe src="https://drive.google.com/file/d/1Sp9qI8ivIcGrJGfYOEbZJehx1jucUWQc/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

@@ -20,4 +20,4 @@ La siguiente tabla muestra las actividades del Día 2.
 | 4   | 14:00 a 15:30 | Presentación de Grupos de Trabajo del Registro de Patrullajes en SMART Mobile                         | SERNANP                     | Presencial |
 | 5   | 15:30 a 16:00 | Preguntas y Respuestas sobre la Implementación de la Herramienta SMART – Experiencias de las ACR      | SERNANP / ACRs              | Presencial |
 | 6   | 16:00 a 16:30 | Presentación Procedimiento Administrativo Sancionador de las ANP de Administración Nacional - SINANPE | SERNANP                     | Virtual    |
-| 7   | 16:30 a 17:00 | Conversatorio sobre Causísticas de PAS                                                                | SERNANP / ACRs              | Presencial |
+| 7   | 16:30 a 17:00 | Conversatorio sobre Casuísticas de PAS                                                                | SERNANP / ACRs              | Presencial |

@@ -1,5 +1,5 @@
 ---
-title: PresentRecursos Satelitales y Geoportales con Información Ecológica sobre Objetos de Conservación
+title: Recursos Satelitales y Geoportales con Información Ecológica sobre Objetos de Conservación
 layout: default
 parent: Día 4
 nav_order: 1

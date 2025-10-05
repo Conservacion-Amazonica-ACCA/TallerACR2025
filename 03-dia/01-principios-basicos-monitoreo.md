@@ -1,5 +1,5 @@
 ---
-title: Principios Básicos del Monitoreo de la Biodiversidad
+title: 3.1 Principios Básicos del Monitoreo de la Biodiversidad
 layout: default
 parent: Día 3
 nav_order: 1

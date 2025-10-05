@@ -1,5 +1,5 @@
 ---
-title: Presentación Procedimiento Administrativo Sancionador de las ANP de Administración Nacional - SINANPE
+title: 2.1 Presentación Procedimiento Administrativo Sancionador de las ANP de Administración Nacional - SINANPE
 layout: default
 parent: Día 2
 nav_order: 1

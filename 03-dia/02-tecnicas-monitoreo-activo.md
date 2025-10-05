@@ -1,5 +1,5 @@
 ---
-title: Técnicas/Metodologías de Monitoreo Activo
+title: 3.2 Técnicas/Metodologías de Monitoreo Activo
 layout: default
 parent: Día 3
 nav_order: 2

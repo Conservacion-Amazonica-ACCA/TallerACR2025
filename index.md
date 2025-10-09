@@ -21,9 +21,3 @@ El material de cada taller realizado se puede encontrar en las pestañas en el p
 - Los guardaparques aprenderán a sistematizar datos de amenazas en el aplicativo SMART.
 - Entrenar al personal (especialistas y guardaparques) representante de ACRs en métodos de monitoreo tradicionales y en el uso de dispositivos tecnológicos como cámaras trampa y grabadores de monitoreo acústico para la detección y seguimiento de fauna silvestre. 
 - Entrenar al personal técnico de ACR (guardaparques y especialistas) en el uso de drones para el levantamiento de información de amenazas en campo.
-
-
-## Sugerencias
-Si tiene algunas sugerencias sobre el taller, por favor rellene el formulario abajo. ¡Nos ayuda mucho para mejorar en los siguientes talleres!
-
-[Denos sus sugerencias](https://forms.gle/gSGWxatR84Z5w6HN6){: .btn .btn-purple }

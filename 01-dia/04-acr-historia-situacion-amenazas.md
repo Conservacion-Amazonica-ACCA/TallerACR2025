@@ -1,8 +1,8 @@
 ---
-title: 1.5 Principios y Lineamientos de Vigilancia y Control
+title: 1.4 Principios y Lineamientos de Vigilancia y Control
 layout: default
 parent: Día 1
-nav_order: 5
+nav_order: 4
 description: "Principios y Lineamientos de Vigilancia y Control"
 ---
 

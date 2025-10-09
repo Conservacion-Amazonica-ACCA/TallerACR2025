@@ -1,8 +1,8 @@
 ---
-title: 1.6 Uso de SMART como herramienta para la vigilancia y control
+title: 1.5 Uso de SMART como herramienta para la vigilancia y control
 layout: default
 parent: Día 1
-nav_order: 6
+nav_order: 5
 description: "Uso de SMART como herramienta para la vigilancia y control"
 ---
 

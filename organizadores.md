@@ -19,7 +19,7 @@ Agradecemos profundamente a todas las organizaciones que han contribuído a la i
 <img align="center" src="https://biodiversidadanp.sernanp.gob.pe/wp-content/uploads/2021/10/Sernanp-Logo-01-768x194.png" hspace="15" vspace="10" width="250">
 
 ## GFP Subnacional
-<img align="center" src="hhttps://www.cooperacionsuiza.pe/wp-content/uploads/2019/03/logotipo-proyecto-gfp-subnacional.png" hspace="15" vspace="10" width="250">
+<img align="center" src="https://www.cooperacionsuiza.pe/wp-content/uploads/2019/03/logotipo-proyecto-gfp-subnacional.png" hspace="15" vspace="10" width="250">
 
 ## Pronaturaleza
 <img align="center" src="https://iucn.org/sites/default/files/crm-members-image/logo_enbajas_ae35f394c3a1fcc1f3bd3d471c9c0125_800.jpg" hspace="15" vspace="10" width="250">
